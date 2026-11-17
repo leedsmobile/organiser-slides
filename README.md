@@ -1,2 +1,0 @@
-- [GitHub Pages](https://leedsmobile.github.io/organiser-slides/)
-- [leeds.mobile/slides](https://leeds.mobile/slides)
